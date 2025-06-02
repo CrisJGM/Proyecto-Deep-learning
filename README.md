@@ -33,7 +33,7 @@ Si no hay un dataset perfecto y la idea es muy buena, se puede:
 
 #### ❓ Otra pregunta clave:
 > ¿Existen modelos preentrenados que nos sirvan para fine-tuning?
-
+Usaremos llama 3 o GPT para tener un modelo NLP pre-entrenado con el que buscar los modelos.
 ---
 
 ### 💡 Ejemplos de ideas
